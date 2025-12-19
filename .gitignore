@@ -127,3 +127,6 @@ dmypy.json
 
 # node
 node_modules/
+
+# Serena local files
+.serena/
